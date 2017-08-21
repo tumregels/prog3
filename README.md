@@ -47,24 +47,23 @@ Introduction to course content and main tools
 
 ## Lesson 4
 
-REST API (կամ fake api)
+- HTTP Protocol
+- RESTful API
+- postman plugin
+- AJAX
 
-- Ինստալ անել json-server-ը։ Օգտագործել կայքի json օրինակը և փորձարկել json-server-ը օգտագործելով postman plugin-ը։ Փորձարկել Routing-ը GET, POST, DELETE, PUT method-ները։
-- օգտագործում ենք json-server-ը և scrape արած json դատան fake-api գենեռացնելու համար։
-- հասկանալ և կիրառել FILTER, PAGINATE, SORT, SLICE, OPERATORS postman plugin-ի օգնությամբ։ Հասկանալ middleware կոնցեպտը և գրել http basicauth middleware և կիրառել այն
-- Ծանոթացնել heroku պլատֆորմի հետ։
-- Deploy անել json api-ը heroku-ի վրա
-
-### Assignment 4
-
-- todo
 
 ## Lesson 5
 
-Պրակտիկ դաս
+REST API (կամ fake api)
 
-- Ավարտում են իրենց REST API
-- Աշխատում են սքրափինգի կիսատ մասի վրա, եթե կա կիսատ բան
+- Ինստալ անել json-server-ը։ Օգտագործել կայքի json օրինակը և փորձարկել json-server-ը օգտագործելով postman plugin-ը։ 
+- Փորձարկել Routing-ը GET, POST, DELETE, PUT method-ները։
+- օգտագործում ենք json-server-ը և scrape արած json դատան fake-api գենեռացնելու համար։
+- հասկանալ և կիրառել FILTER, PAGINATE, SORT, SLICE, OPERATORS postman plugin-ի օգնությամբ։ 
+- հասկանալ middleware կոնցեպտը և գրել http basicauth middleware և կիրառել այն
+- Ծանոթացնել heroku պլատֆորմի հետ։
+- Deploy անել json api-ը heroku-ի վրա
 
 ### Assignment 5
 
@@ -72,12 +71,13 @@ REST API (կամ fake api)
 
 ## Lesson 6
 
-Վիզուալացում
+Վիզուալացում - Պրակտիկ դաս
 
 - վիզուալացման եղանակների մասին
 - վիզուալացման գրադարաններ ըստ տեսակների
-- AJAX
-- show network tab in chrome, postman plugin
+- Google charts
+- Ավարտում են իրենց REST API
+- Աշխատում են սքրափինգի կիսատ մասի վրա, եթե կա կիսատ բան
 
 ### Assignment 6
 
