@@ -9,7 +9,7 @@ Introduction to course content and main tools
 - տվյալների մշակման մասին
 - վիզուալացման օրինակներ
 - տվյալների ֆորմատներ  (json, html, xml , csv ....)
-- TD create npm package, explain package.json structure
+- **TD** create npm package, explain package.json structure
 
 ### Assignment 1
 
@@ -75,13 +75,13 @@ REST API (կամ fake api)
 
 ## Lesson 6
 
-Վիզուալացում - Պրակտիկ դաս
+Վիզուալացում - Պրակտիկ դաս  (Google Charts and json-server)
 
 - վիզուալացման եղանակների մասին
 - վիզուալացման գրադարաններ ըստ տեսակների
 - Google charts
-- Ավարտում են իրենց REST API
-- Աշխատում են սքրափինգի կիսատ մասի վրա, եթե կա կիսատ բան
+- Միացնել Google charts-ը և REST API
+- create/add routes for each chart
 
 ### Assignment 6
 
@@ -89,7 +89,9 @@ REST API (կամ fake api)
 
 ## Lesson 7 and Lesson 8
 
-Working on the project
+- Ավարտում են իրենց REST API
+- Ավարտում են Google Charts-երը
+- Աշխատում են սքրափինգի կիսատ մասի վրա, եթե կա կիսատ բան
 
 
 
