@@ -9,6 +9,7 @@ Introduction to course content and main tools
 - տվյալների մշակման մասին
 - վիզուալացման օրինակներ
 - տվյալների ֆորմատներ  (json, html, xml , csv ....)
+- TD create npm package, explain package.json structure
 
 ### Assignment 1
 
