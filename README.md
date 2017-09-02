@@ -49,7 +49,7 @@ Introduction to course content and main tools
 ## Lesson 4
 
 - HTTP Protocol
-- RESTful API
+- ~RESTful API~
 - postman plugin
 - AJAX
 
