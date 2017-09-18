@@ -5,7 +5,7 @@ var wikiLinks = require("./data/wikilinks.json");
 
 var wikiPages = [];
 var i = 0;
-var f = "data/wikipages.json";
+var f = __dirname + "/data/wikipages.json";
 
 __request(wikiLinks[0]);
 
@@ -17,7 +17,7 @@ function __request(currURL) {
         request.get(currURL, function(error, response, page) {
             currURL = wikiLinks[i++];
             collectData(page, currURL);
-            console.log("processed :" + currURL);
+            console.log("processed :" + decodeURI(currURL));
             __request(currURL);
 
         });
