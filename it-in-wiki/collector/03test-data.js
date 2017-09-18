@@ -1,2 +1,2 @@
-var data = require("./wikiPages.json");
+var data = require("./data/wikipages.json");
 console.log(data.length);

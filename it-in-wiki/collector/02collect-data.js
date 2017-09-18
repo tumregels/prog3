@@ -1,11 +1,11 @@
 var request = require('request');
 var cheerio = require('cheerio');
 var fs = require('fs');
-var wikiLinks = require("./data/wikiLinks.json");
+var wikiLinks = require("./data/wikilinks.json");
 
 var wikiPages = [];
 var i = 0;
-var f = "data/wikiPages.json";
+var f = "data/wikipages.json";
 
 __request(wikiLinks[0]);
 

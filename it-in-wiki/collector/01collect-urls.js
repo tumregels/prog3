@@ -1,7 +1,7 @@
 var request = require('request');
 var cheerio = require('cheerio');
 var fs = require('fs');
-var f = "data/wikiLinks.json";
+var f = "data/wikilinks.json";
 var hyWiki = "https://hy.wikipedia.org";
 var url = "https://hy.wikipedia.org/wiki/%D4%BF%D5%A1%D5%BF%D5%A5%D5%A3%D5%B8%D6%80%D5%AB%D5%A1:%D4%BE%D6%80%D5%A1%D5%A3%D6%80%D5%A1%D5%BE%D5%B8%D6%80%D5%B8%D6%82%D5%B4";
 
