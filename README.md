@@ -31,7 +31,7 @@ Introduction to course content and main tools
 
 ### Assignment 2
 
-- todo
+- jsonfile
 
 ## Lesson 3
 
@@ -44,7 +44,7 @@ Introduction to course content and main tools
 
 ### Assignment 3
 
-- todo
+- regexp
 
 ## Lesson 4
 
@@ -85,7 +85,7 @@ REST API (կամ fake api)
 
 ### Assignment 6
 
-- todo
+- working on the final project
 
 ## Lesson 7 and Lesson 8
 
