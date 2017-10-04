@@ -21,13 +21,14 @@ Introduction to course content and main tools
 տվյալների քերում և նախապատրաստում
 
 - Տեխնիկական scrapping
-- անհրաժեշտ գրադարաններ , request, cherio, fs
-- selector-ներ, DOM ծառ և այլն, cherio-ի համար
+- անհրաժեշտ գրադարաններ , request, cheerio, fs
+- selector-ներ, DOM ծառ և այլն, cheerio-ի համար
 - JSON js օբյեկտը, json-ից տեքստ և հակառակը
 - աշխատանք JSON, հիմնական, կարդալ ցանցից
 - examples: JSON, HTML, CSV, XML
 - examples: scrape from html, scrape from api 
 - choose final project
+- *NEW* scrape-it
 
 ### Assignment 2
 
@@ -41,6 +42,7 @@ Introduction to course content and main tools
 - github
 - տվյալների աղբյուրներ
 - սկսում ենք հավաքագրել տվյալները և դրանք մշակել
+- *NEW* regexp
 
 ### Assignment 3
 
